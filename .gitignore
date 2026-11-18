@@ -1,0 +1,13 @@
+# Compiled AMX Mod X plugins
+*.amxx
+compiled/
+
+# Local backups
+_author_backup_*/
+_backup_*/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
