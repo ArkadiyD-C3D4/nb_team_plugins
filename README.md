@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Eq8Eurir6H6wmOZ7ZsqVgExlXtqBBxmJ/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1BDHmjY084oWIgufspa5GqsdRiOjPhim_/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download_server_build-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Скачать сборку сервера">
   </a>
 </p>
@@ -41,8 +41,8 @@
 ## 📦 Скачать готовую сборку сервера
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1Eq8Eurir6H6wmOZ7ZsqVgExlXtqBBxmJ/view?usp=sharing">
-    <b>⬇ public_server.7z — 661 МиБ</b>
+  <a href="https://drive.google.com/file/d/1BDHmjY084oWIgufspa5GqsdRiOjPhim_/view?usp=sharing">
+    <b>⬇ Server (password: nb_team).7z — 661 МиБ</b>
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 > Архив зашифрован (AES-256, имена файлов скрыты), чтобы Google Drive
 > не блокировал `.exe` / `.dll` внутри сборки.
 >
-> Распаковка: `7z x public_server.7z` (Linux) или через 7-Zip (Windows),
+> Распаковка: `7z x "Server (password: nb_team).7z"` (Linux) или через 7-Zip (Windows),
 > затем введите пароль `nb_team`.
 
 В архиве — готовый сервер CS 1.6:
