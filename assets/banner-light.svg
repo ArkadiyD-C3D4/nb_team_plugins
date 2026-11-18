@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NB Team — Counter-Strike 1.6 AMX Mod X plugins">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfcff"/>
+      <stop offset="0.55" stop-color="#f2f6fd"/>
+      <stop offset="1" stop-color="#e6eefb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffb23f"/>
+      <stop offset="1" stop-color="#ff7a00"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a1020"/>
+      <stop offset="1" stop-color="#223a63"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#0a1020" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+
+  <circle cx="1070" cy="40" r="230" fill="#ff8a00" opacity="0.12"/>
+  <circle cx="1210" cy="300" r="170" fill="#4ea1ff" opacity="0.12"/>
+
+  <g opacity="0.14" stroke="#0a1020" fill="none" stroke-width="3" stroke-linecap="round">
+    <circle cx="1090" cy="160" r="62"/>
+    <path d="M1090 72v42M1090 206v42M1002 160h42M1136 160h42"/>
+    <circle cx="1090" cy="160" r="4" fill="#0a1020" stroke="none"/>
+  </g>
+
+  <rect x="80" y="92" width="8" height="136" rx="4" fill="url(#accent)"/>
+
+  <text x="120" y="140" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="7" fill="url(#title)">NB TEAM</text>
+  <text x="122" y="181" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="3.4" fill="#5a6b86">COUNTER-STRIKE 1.6 · AMX MOD X PLUGINS</text>
+
+  <g font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="13.5" font-weight="700" letter-spacing="2">
+    <rect x="120" y="207" width="146" height="38" rx="19" fill="#ffffff" fill-opacity="0.8" stroke="#0a1020" stroke-opacity="0.12"/>
+    <text x="193" y="231" text-anchor="middle" fill="#c26600">41 PLUGINS</text>
+
+    <rect x="282" y="207" width="122" height="38" rx="19" fill="#ffffff" fill-opacity="0.8" stroke="#0a1020" stroke-opacity="0.12"/>
+    <text x="343" y="231" text-anchor="middle" fill="#1f6fbf">CS 1.6</text>
+
+    <rect x="420" y="207" width="160" height="38" rx="19" fill="#ffffff" fill-opacity="0.8" stroke="#0a1020" stroke-opacity="0.12"/>
+    <text x="500" y="231" text-anchor="middle" fill="#33445f">AMX MOD X</text>
+
+    <rect x="596" y="207" width="112" height="38" rx="19" fill="#ffffff" fill-opacity="0.8" stroke="#0a1020" stroke-opacity="0.12"/>
+    <text x="652" y="231" text-anchor="middle" fill="#1d7a42">ReAPI</text>
+  </g>
+</svg>

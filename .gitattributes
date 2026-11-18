@@ -1,3 +1,11 @@
 * text=auto
+
 *.sma text eol=lf
+*.inc text eol=lf
 *.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.svg text eol=lf
+
+*.amxx binary
+*.mdmp binary

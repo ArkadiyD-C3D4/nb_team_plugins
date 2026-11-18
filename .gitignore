@@ -1,13 +1,21 @@
-# Compiled AMX Mod X plugins
+# Build output (except the ready-to-use plugins folder)
 *.amxx
-compiled/
+!plugins/*.amxx
+scripting/compiled/
+dist/
 
 # Local backups
 _author_backup_*/
 _backup_*/
+
+# Archives / binaries
+*.7z
+*.zip
+*.rar
 
 # Editor / OS
 .vscode/
 .idea/
 Thumbs.db
 desktop.ini
+.DS_Store
